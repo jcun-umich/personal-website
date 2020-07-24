@@ -25,7 +25,6 @@
       <a href="/about" style="margin: 0 auto; color: white"><button class="lucky" style="color: white; font-size: 4vw">
         I'm Feeling Lucky
       </button></a>
-      <p>View this website on a desktop for the best experience!</p>
       </div>
     </mq-layout>
   </div>

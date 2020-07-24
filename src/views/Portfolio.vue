@@ -29,9 +29,7 @@
       <ul class="videos">
         <li class="video y">
           <div class="video-panel">
-            <video disableRemotePlayback autoplay muted loop id="myVideo">
-              <source  src="../assets/dbt.mp4" type="video/mp4">
-           </video>
+            <iframe src="https://www.youtube.com/embed/dPWA0wNuuyo" autoplay="1" loop="1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>PDB Translator (C++)</h3>
@@ -41,9 +39,7 @@
         </li>
         <li class="video r">
           <div class="video-panel">
-            <video disableRemotePlayback autoplay muted loop id="myVideo">
-              <source src="../assets/hangman.mp4" type="video/mp4">
-            </video>
+            <iframe src="https://www.youtube.com/embed/81gO89N2WvA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>Hangman (C++)</h3>
@@ -53,9 +49,7 @@
         </li>
         <li class="video b">
           <div class="video-panel">
-            <video disableRemotePlayback autoplay muted loop id="myVideo">
-              <source src="../assets/website.mp4" type="video/mp4">
-            </video>
+            <iframe src="https://www.youtube.com/embed/rhS8gi09UvQ?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>This Website! (Vue.js)</h3>
@@ -65,9 +59,7 @@
         </li>
         <li class="video y">
           <div class="video-panel">
-            <video disableRemotePlayback autoplay muted loop id="myVideo">
-              <source src="../assets/blackjack.mp4" type="video/mp4">
-            </video>
+            <iframe src="https://www.youtube.com/embed/tmBuWQ_Ec-8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>Black Jack (C++)</h3>
@@ -77,9 +69,7 @@
         </li>
         <li class="video r">
           <div class="video-panel">
-            <video disableRemotePlayback autoplay muted loop id="myVideo">
-              <source  src="../assets/planroute.mp4" type="video/mp4">
-            </video>
+            <iframe src="https://www.youtube.com/embed/yFHqy9TTFYw?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>Route Calculator (C++)</h3>
@@ -115,9 +105,7 @@
       <ul class="videos">
         <li class="video y">
           <div class="video-panel">
-            <video disableRemotePlayback autoplay muted loop id="myVideo">
-              <source  src="../assets/dbt.mp4" type="video/mp4">
-           </video>
+            <iframe src="https://www.youtube.com/embed/dPWA0wNuuyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>PDB Translator (C++)</h3>
@@ -127,9 +115,7 @@
         </li>
         <li class="video r">
           <div class="video-panel">
-            <video disableRemotePlayback autoplay muted loop id="myVideo">
-              <source src="../assets/hangman.mp4" type="video/mp4">
-            </video>
+            <iframe src="https://www.youtube.com/embed/81gO89N2WvA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>Hangman (C++)</h3>
@@ -139,9 +125,7 @@
         </li>
         <li class="video b">
           <div class="video-panel">
-            <video disableRemotePlayback autoplay muted loop id="myVideo">
-              <source src="../assets/website.mp4" type="video/mp4">
-            </video>
+            <iframe src="https://www.youtube.com/embed/rhS8gi09UvQ?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>This Website! (Vue.js)</h3>
@@ -151,9 +135,7 @@
         </li>
         <li class="video y">
           <div class="video-panel">
-            <video disableRemotePlayback autoplay muted loop id="myVideo">
-              <source src="../assets/blackjack.mp4" type="video/mp4">
-            </video>
+            <iframe src="https://www.youtube.com/embed/tmBuWQ_Ec-8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>Black Jack (C++)</h3>
@@ -163,9 +145,7 @@
         </li>
         <li class="video r">
           <div class="video-panel">
-            <video disableRemotePlayback autoplay muted loop id="myVideo">
-              <source  src="../assets/planroute.mp4" type="video/mp4">
-            </video>
+            <iframe src="https://www.youtube.com/embed/yFHqy9TTFYw?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>Route Calculator (C++)</h3>
@@ -213,7 +193,7 @@ export default {
         width: 400px
         height: 50px
         color: white
-        video
+        iframe
           position: relative
           left: 20%
           width: 270px
@@ -337,7 +317,7 @@ body
         color: white
         margin-top: 75px
         margin-right: 8em
-        video
+        iframe
           position: relative
           width: 450px
           height: 250px

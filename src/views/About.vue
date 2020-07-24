@@ -52,7 +52,7 @@
               <tr>
               <td>Is Josh Cunningham a software developer?<span class="answer2" style="color: gray">Not officially, but he'd like to think so.</span></td></tr>
               <tr>
-              <td>When is Josh Cunningham graduating?<span class="answer3" style="color: gray">Ideally December 2020</span></td></tr>
+              <td>When is Josh Cunningham graduating?<span class="answer3" style="color: gray">Ideally December 2022</span></td></tr>
               <tr>
               <td>Did Josh Cunningham make this website all by himself?<span class="answer" style="color: gray">Yes.</span></td></tr>
               </tbody>
@@ -154,7 +154,7 @@
               <tr style="width: 5vw">
               <td style="font-size: 3.5vw">Is Josh Cunningham a software developer?<span class="answer2" style="color: gray">Not officially, but he'd like to think so.</span></td></tr>
               <tr style="width: 5vw">
-              <td style="font-size: 3.5vw">When is Josh Cunningham graduating?<span class="answer3" style="color: gray">Ideally December 2020</span></td></tr>
+              <td style="font-size: 3.5vw">When is Josh Cunningham graduating?<span class="answer3" style="color: gray">Ideally December 2022</span></td></tr>
               <tr style="width: 5vw">
               <td style="font-size: 3.5vw">Did Josh Cunningham make this website himself?<span class="answer" style="color: gray">Yes.</span></td></tr>
               </tbody>

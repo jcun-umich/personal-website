@@ -45,7 +45,7 @@
             </li>
             <li class="right-top-right">
               <h4>Josh Cunningham</h4>
-              <img class="avatar" width="150px" height="150px" src="../assets/avatar.png" alt="pic">
+              <img class="avatar" width="150px" height="150px" src="../assets/white_shirt_crop.png" alt="pic">
               <p><span style="font-weight: bold">Name:</span>  Joshua Ryan Cunningham</p>
               <p><span style="font-weight: bold">Born:</span>  February 23, 2001</p>
               <p><span style="font-weight: bold">Education:</span>  University of Michigan</p>
