@@ -2,7 +2,6 @@
   "name": "josh-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jcun-umich.github.io/personal-website/src/views.Home.vue",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
