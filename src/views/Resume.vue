@@ -257,6 +257,7 @@ body
 .body-small
   display: flex
   flex-direction: column
+  font-family: Arial
   .top-bar
     height: 18vw
     width: 100%

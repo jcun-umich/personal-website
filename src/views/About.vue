@@ -24,7 +24,7 @@
       <ul class="content">
         <li class="left-side">
           <ul class="links">
-            <li><p class="results">About 100,000,000 results (0.23 seconds)</p></li>
+            <li><p class="results">About 4 results (0.23 seconds)</p></li>
             <li class="link">
               <p class="url">joshipedia.org > About</p>
              <a href="/wiki" style="text-decoration: none; color: inherit"><h3 class="web-title">About</h3></a>
@@ -126,7 +126,7 @@
       <ul class="content-small">
         <li class="left-side">
           <ul class="links">
-            <li><p class="results">About 100,000,000 results (0.23 seconds)</p></li>
+            <li><p class="results">About 4 results (0.23 seconds)</p></li>
             <li class="link">
               <p class="url">joshipedia.org > About</p>
              <a href="/wiki" style="text-decoration: none; color: inherit"><h3 class="web-title">About</h3></a>

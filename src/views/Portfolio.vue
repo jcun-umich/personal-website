@@ -54,7 +54,7 @@
           <div class="info">
             <h3>This Website! (Vue.js)</h3>
             <p>The table found in the About page was initially part of the bootcamp for my Web Development internship. As you can see I took the assignment many steps further to create an over-the-top display of what I can do in my short time learning web developement. This website encapsulates only part of both who I am and what I can do.</p>
-            <div class="full"><a href="" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+            <div class="full"><a href="https://github.com/jcun-umich/personal-website" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
           </div>
         </li>
         <li class="video y">
@@ -130,7 +130,7 @@
           <div class="info">
             <h3>This Website! (Vue.js)</h3>
             <p>The table found in the About page was initially part of the bootcamp for my Web Development internship. As you can see I took the assignment many steps further to create an over-the-top display of what I can do in my short time learning web developement. This website encapsulates only part of both who I am and what I can do.</p>
-            <div class="full"><a href="" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+            <div class="full"><a href="https://github.com/jcun-umich/personal-website" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
           </div>
         </li>
         <li class="video y">
