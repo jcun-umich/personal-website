@@ -55,8 +55,9 @@
     <div class="header-small">
       <div class="top-row-small">
         <a href="/home">
-        <video disableRemotePlayback width="30%" autoplay muted loop id="myVideo-small">
+        <video disableRemotePlayback width="30%" preload="auto" poster="../assets/logo.png" autoplay muted loop id="myVideo-small">
         <source src="../assets/logo.mp4" type="video/mp4">
+        <img src="../assets/logo.png" alt="logo">
         </video>
         </a>
       </div>
@@ -70,7 +71,8 @@
     <div class="body-small">
       <div class="top-bar">
         <video width="100px" autoplay muted loop id="myVideo">
-          <source src="../assets/scholar.mp4" type="video/mp4">
+          <source src="../assets/scholar.mp4" preload="auto" poster="../assets/scholar.png" type="video/mp4">
+          <img src="../assets/scholar.png" alt="logo">
         </video>
         <p>About 1 results (.02 seconds)</p>
       </div>
@@ -188,7 +190,6 @@ body
           position: relative
           color: #989898
           font-size: 20px
-          bottom: -10px
   .columns
         display: flex
         flex-direction: row
@@ -257,6 +258,7 @@ body
 .body-small
   display: flex
   flex-direction: column
+  font-family: Arial
   .top-bar
     height: 18vw
     width: 100%
