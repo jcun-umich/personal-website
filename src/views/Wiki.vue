@@ -31,7 +31,7 @@
           <p style="font-size: 18px; margin-top: 3px">From Joshipedia</p>
           <ul class="top-right">
             <li class="left-top-right">
-              <p>Josh Cunningham is a second year student at the College of Engineering at the <a href="https://en.wikipedia.org/wiki/University_of_Michigan" target="_blank" style="text-decoration: none; color: blue">University of Michigan</a>, intending to major in both <a href="https://en.wikipedia.org/wiki/Computer_science" target="_blank" style="text-decoration: none; color: blue">Computer Science</a> and <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank" style="text-decoration: none; color: blue">Data Science</a>. He is currently a Web Development Intern at Acuitii, a tech startup based in <a href="https://en.wikipedia.org/wiki/Detroit" target="_blank" style="text-decoration: none; color: blue">Detroit</a>, Michigan. Below are the variety of programming languages and tools he is prepared to use to solve any problem he will face in his career. His ultimate goal in his career is to start a business. He doesn’t know what shape that aspiration will take, so he is trying to become knowledgeable in all aspects of development whether that be web development, <a href="https://en.wikipedia.org/wiki/Software_development" target="_blank" style="text-decoration: none; color: blue">software development</a>, or in data engineering. He is confident that as his arsenal of tools in the table above grows, he will be ready to succeed.</p>
+              <p>Josh Cunningham is a second year student at the College of Engineering at the <a href="https://en.wikipedia.org/wiki/University_of_Michigan" target="_blank" style="text-decoration: none; color: blue">University of Michigan</a>, intending to major in both <a href="https://en.wikipedia.org/wiki/Computer_science" target="_blank" style="text-decoration: none; color: blue">Computer Science</a> and <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank" style="text-decoration: none; color: blue">Data Science</a>. He is currently a Software Development Intern at Vitesco, a automotive part company based in Auburn Hills, Michigan. Below are the variety of programming languages and tools he is prepared to use to solve any problem he will face in his career. His ultimate goal in his career is to start a business. He doesn’t know what shape that aspiration will take, so he is trying to become knowledgeable in all aspects of development whether that be web development, <a href="https://en.wikipedia.org/wiki/Software_development" target="_blank" style="text-decoration: none; color: blue">software development</a>, or in data engineering. He is confident that as his arsenal of tools in the table below grows, he will be ready to succeed.</p>
               <div class="contents">
                 <h4>Contents</h4>
                 <ol>
@@ -45,9 +45,9 @@
             </li>
             <li class="right-top-right">
               <h4>Josh Cunningham</h4>
-              <img class="avatar" width="150px" height="150px" src="../assets/white_shirt_crop.png" alt="pic">
+              <img class="avatar" width="150px" height="150px" src="../assets/../assets/bluetie2.png" alt="pic">
               <p><span style="font-weight: bold">Name:</span>  Joshua Ryan Cunningham</p>
-              <p><span style="font-weight: bold">Born:</span>  February 23, 2001</p>
+              <p><span style="font-weight: bold">Born:</span>  February 23</p>
               <p><span style="font-weight: bold">Education:</span>  University of Michigan</p>
               <p><span style="font-weight: bold">Occupation:</span>  Student, Intern, Future Engineer</p>
               <p><span style="font-weight: bold">Net Worth:</span>  -$30,000 in Student Loan Debt</p>
@@ -92,14 +92,14 @@
             <div id="college" class="page">
               <h4>College</h4>
               <div class="words">
-                <p>Continuing to pursue a challenging academic experience, he decided to attend the highly esteemed College of Engineering at the <a href="https://en.wikipedia.org/wiki/University_of_Michigan" target="_blank" style="text-decoration: none; color: blue">University of Michigan</a>. For the first time he is surrounded by people who truly share his passion for learning as well as engineering. So far, his time at college has taught him to take a more conceptual approach to engineering and push his limits as a student. For the first time ever, his professors and superiors care more about how much he's learning rather than what his report card looks like. While this was an uncomfortable adjustment at first, it is a welcome one. He has also developed as an adult, with more responsibilities than ever.</p>
+                <p>Continuing to pursue a challenging academic experience, he decided to attend the highly esteemed College of Engineering at the <a href="https://en.wikipedia.org/wiki/University_of_Michigan" target="_blank" style="text-decoration: none; color: blue">University of Michigan</a>. For the first time he is surrounded by people who truly share his passion for learning as well as engineering. So far, his time at college has taught him to take a more conceptual approach to engineering and push his limits as a student. His professors and superiors care more about how much he's learning rather than what his report card looks like. While this was an uncomfortable adjustment at first, it is a welcome one. He has also developed as an adult, with more responsibilities than ever.</p>
                 <img src="https://arts.umich.edu/wp-content/uploads/sites/35/mc-image-cache/2015/11/library-law-2.jpg" alt="law-library">
               </div>
             </div>
             <div id="career" class="page">
               <h4>Career</h4>
               <div class="words">
-                <p>At this point in his life he doesn't know what his career will look like exactly. He does know that he is actively working to prepare himself for whatever that career turns out to be. In college, He's taught software developement. On his own, He teaches himself <a href="https://en.wikipedia.org/wiki/Web_development" target="_blank" style="text-decoration: none; color: blue">web development</a> and interns as a web developer to make himself a well-rounded engineer. He also intends to pursue Data Science and <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" style="text-decoration: none; color: blue">Artificial Inteliigence</a> in school as he knows that when he graduates being well-versed in these fields will be an invaluable resource for him as an employee. No matter what shape his future takes, he knows that he will be ready.</p>
+                <p>At this point in his life he doesn't know what his career will look like exactly. He does know that he is actively working to prepare himself for whatever that career turns out to be. In college, he's taught software developement. On his own, he teaches himself <a href="https://en.wikipedia.org/wiki/Web_development" target="_blank" style="text-decoration: none; color: blue">web development</a> and interns as a software developer to make himself a well-rounded engineer. He also intends to pursue Data Science and <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" style="text-decoration: none; color: blue">Artificial Inteliigence</a> in school as he knows that when he graduates being well-versed in these fields will be an invaluable resource for him as an employee. No matter what shape his future takes, he knows that he will be ready.</p>
                 <img src="https://al.nd.edu/assets/380450/1000x562/bacs_code.jpg" alt="coding">
               </div>
             </div>
@@ -119,8 +119,9 @@
     <div class="header-small">
       <div class="top-row-small">
         <a href="/home">
-        <video disableRemotePlayback width="30%" autoplay muted loop id="myVideo-small">
+        <video disableRemotePlayback width="30%" preload="auto" poster="../assets/logo.png" autoplay muted loop id="myVideo-small">
         <source src="../assets/logo.mp4" type="video/mp4">
+        <img src="../assets/logo.png" alt="logo">
         </video>
         </a>
       </div>
@@ -134,15 +135,16 @@
     <div class="body-small">
        <ul class="divs">
         <li class="left-side">
-          <video width="50%" disableRemotePlayback autoplay muted loop id="myVideo">
+          <video width="50%" disableRemotePlayback preload="auto" poster="../assets/joshipedia.png" autoplay muted loop id="myVideo">
             <source src="../assets/joshipedia2.mp4" type="video/mp4">
+            <img src="../assets/joshipedia.png" alt="logo">
           </video></li>
         <li class="right-side" style="margin-left: 10px">
           <div class="title-card"><h2>Josh Cunningham</h2></div>
           <div class="top-stuff">
           <p style="font-size: 12px; margin-top: 3px">From Joshipedia</p>
-              <p>Josh Cunningham is a second year student at the College of Engineering at the <a href="https://en.wikipedia.org/wiki/University_of_Michigan" target="_blank" style="text-decoration: none; color: blue">University of Michigan</a>, intending to major in both <a href="https://en.wikipedia.org/wiki/Computer_science" target="_blank" style="text-decoration: none; color: blue">Computer Science</a> and <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank" style="text-decoration: none; color: blue">Data Science</a>. He is currently a Web Development Intern at Acuitii, a tech startup based in <a href="https://en.wikipedia.org/wiki/Detroit" target="_blank" style="text-decoration: none; color: blue">Detroit</a>, Michigan. Below are the variety of programming languages and tools he is prepared to use to solve any problem he will face in his career. His ultimate goal in his career is to start a business. He doesn’t know what shape that aspiration will take, so he is trying to become knowledgeable in all aspects of development whether that be web development, <a href="https://en.wikipedia.org/wiki/Software_development" target="_blank" style="text-decoration: none; color: blue">software development</a>, or in data engineering. He is confident that as his arsenal of tools in the table above grows, he will be ready to succeed.</p>
-              <img class="avatar" width="150px" height="150px" src="../assets/avatar.png" alt="pic">
+              <p>Josh Cunningham is a second year student at the College of Engineering at the <a href="https://en.wikipedia.org/wiki/University_of_Michigan" target="_blank" style="text-decoration: none; color: blue">University of Michigan</a>, intending to major in both <a href="https://en.wikipedia.org/wiki/Computer_science" target="_blank" style="text-decoration: none; color: blue">Computer Science</a> and <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank" style="text-decoration: none; color: blue">Data Science</a>. He is currently a Software Development Intern at Vitesco, a automotive part company based in Auburn Hills, Michigan. Below are the variety of programming languages and tools he is prepared to use to solve any problem he will face in his career. His ultimate goal in his career is to start a business. He doesn’t know what shape that aspiration will take, so he is trying to become knowledgeable in all aspects of development whether that be web development, <a href="https://en.wikipedia.org/wiki/Software_development" target="_blank" style="text-decoration: none; color: blue">software development</a>, or in data engineering. He is confident that as his arsenal of tools in the table below grows, he will be ready to succeed.</p>
+              <img class="avatar" width="150px" height="150px" src="../assets/bluetie2.png" alt="pic">
               <h4>Josh Cunningham</h4>
               </div>
               <div class="contents">
@@ -193,14 +195,14 @@
             <div id="college" class="page">
               <h4>College</h4>
               <div class="words">
-                <p>Continuing to pursue a challenging academic experience, he decided to attend the highly esteemed College of Engineering at the <a href="https://en.wikipedia.org/wiki/University_of_Michigan" target="_blank" style="text-decoration: none; color: blue">University of Michigan</a>. For the first time he is surrounded by people who truly share his passion for learning as well as engineering. So far, his time at college has taught him to take a more conceptual approach to engineering and push his limits as a student. For the first time ever, his professors and superiors care more about how much he's learning rather than what his report card looks like. While this was an uncomfortable adjustment at first, it is a welcome one. He has also developed as an adult, with more responsibilities than ever.</p>
+                <p>Continuing to pursue a challenging academic experience, he decided to attend the highly esteemed College of Engineering at the <a href="https://en.wikipedia.org/wiki/University_of_Michigan" target="_blank" style="text-decoration: none; color: blue">University of Michigan</a>. For the first time he is surrounded by people who truly share his passion for learning as well as engineering. So far, his time at college has taught him to take a more conceptual approach to engineering and push his limits as a student. His professors and superiors care more about how much he's learning rather than what his report card looks like. While this was an uncomfortable adjustment at first, it is a welcome one. He has also developed as an adult, with more responsibilities than ever.</p>
                 <img src="https://arts.umich.edu/wp-content/uploads/sites/35/mc-image-cache/2015/11/library-law-2.jpg" alt="law-library">
               </div>
             </div>
             <div id="career" class="page">
               <h4>Career</h4>
               <div class="words">
-                <p>At this point in his life he doesn't know what his career will look like exactly. He does know that he is actively working to prepare himself for whatever that career turns out to be. In college, He's taught software developement. On his own, He teaches himself <a href="https://en.wikipedia.org/wiki/Web_development" target="_blank" style="text-decoration: none; color: blue">web development</a> and interns as a web developer to make himself a well-rounded engineer. He also intends to pursue Data Science and <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" style="text-decoration: none; color: blue">Artificial Inteliigence</a> in school as he knows that when he graduates being well-versed in these fields will be an invaluable resource for him as an employee. No matter what shape his future takes, he knows that he will be ready.</p>
+                <p>At this point in his life he doesn't know what his career will look like exactly. He does know that he is actively working to prepare himself for whatever that career turns out to be. In college, he's taught software developement. On his own, he teaches himself <a href="https://en.wikipedia.org/wiki/Web_development" target="_blank" style="text-decoration: none; color: blue">web development</a> and interns as a software developer to make himself a well-rounded engineer. He also intends to pursue Data Science and <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" style="text-decoration: none; color: blue">Artificial Inteliigence</a> in school as he knows that when he graduates being well-versed in these fields will be an invaluable resource for him as an employee. No matter what shape his future takes, he knows that he will be ready.</p>
                 <img src="https://al.nd.edu/assets/380450/1000x562/bacs_code.jpg" alt="coding">
               </div>
             </div>
@@ -445,6 +447,7 @@ body
         margin: 0 auto
         align-items: center
         width: 20%
+        text-align: center
         h4
           font-size: 18px
           margin: 0 auto
@@ -453,7 +456,9 @@ body
           align-items: center
           margin: 0 auto
           text-align: center
-          margin-left: 25%
+        p
+          text-align: left
+
     .pages
       display: flex
       flex-direction: column
