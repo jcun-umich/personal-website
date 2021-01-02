@@ -13,17 +13,24 @@
         </p>
       </div>
       <a href="/about" style="margin: 0 auto"><button class="lucky">
-        <p>I'm Feeling Lucky</p>
+        <p>Continue</p>
       </button></a>
     </body>
     </mq-layout>
     <mq-layout mq="sm">
       <div class="body2">
-        <video disableRemotePlayback autoplay muted loop id="myVideo">
+        <video disableRemotePlayback preload="auto" poster="../assets/logo.png" autoplay muted loop id="myVideo">
         <source src="../assets/logo.mp4" type="video/mp4">
+        <img src="../assets/logo.png" alt="logo">
       </video>
+      <div class="search-bar">
+        <p class="moving-text">Josh Cunningham is
+          <span class="typed-text">{{ typeValue }}</span>
+          <span class="cursor" :class="{'typing': typeStatus}">&nbsp;</span>
+        </p>
+      </div>
       <a href="/about" style="margin: 0 auto; color: white"><button class="lucky" style="color: white; font-size: 4vw">
-        I'm Feeling Lucky
+        Continue
       </button></a>
       </div>
     </mq-layout>
@@ -147,17 +154,30 @@ export default {
 .body2
   text-align: center
   position: fixed
-  top: 50%
+  top: 45%
   left: 50%
   -webkit-transform: translate(-50%, -50%)
   transform: translate(-50%, -50%)
+  video
+    width: 70vw
+  .search-bar
+    border: 1px solid gray
+    border-radius: 25px
+    margin-bottom: 1em
+    width: 80vw
+    height: 30px
+    .moving-text
+      font-size: 4vw
+      position: relative
+      left: 0
+      top: -10px
   button
     appearance: none
     border: none
     cursor: pointer
     margin-top: 1em
-    width: 166px
-    height: 43px
+    width: 140px
+    height: 40px
     background: #4C90F6
     border-radius: 2px
     margin: 0 auto
@@ -168,10 +188,8 @@ export default {
     &:hover
       background: rgb(0, 255, 64)
     p
-     width: 144px
-     height: 20px
-     font-size: 18px
-     line-height: 21px
+     font-size: 3vw
+     line-height: 18px
      text-align: center
      font-family: Arial
      margin: 0 auto
