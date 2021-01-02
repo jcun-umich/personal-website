@@ -34,7 +34,7 @@
               <a href="https://docs.google.com/document/d/1m80brQ6bSwMCpcH9Jezf389aTEB6cvSEKv_-Bgg1cZE/edit?usp=sharing" target="_blank"><button class="resume-button2">Download Resume</button></a>
             </li>
             <li class="right-col">
-              <img src="../assets/resume.png" alt="resume">
+              <img src="../assets/resumee.png" alt="resume">
             </li>
           </ul>
     </body>
@@ -43,8 +43,9 @@
     <div class="header-small">
       <div class="top-row-small">
         <a href="/home">
-        <video disableRemotePlayback width="30%" autoplay muted loop id="myVideo-small">
+        <video disableRemotePlayback width="30%" preload="auto" poster="../assets/logo.png" autoplay muted loop id="myVideo-small">
         <source src="../assets/logo.mp4" type="video/mp4">
+        <img src="../assets/logo.png" alt="logo">
         </video>
         </a>
       </div>
@@ -58,12 +59,13 @@
     <div class="body-small">
       <div class="top-bar">
             <video width="100px" autoplay muted loop id="myVideo">
-            <source src="../assets/scholar.mp4" type="video/mp4">
+            <source src="../assets/scholar.mp4" preload="auto" poster="../assets/scholar.png" type="video/mp4">
+            <img src="../assets/scholar.png" alt="logo">
             </video>
             <a href="https://docs.google.com/document/d/1m80brQ6bSwMCpcH9Jezf389aTEB6cvSEKv_-Bgg1cZE/edit?usp=sharing" target="_blank"><button class="resume-button2">Download Resume</button></a>
       </div>
       <div class="right-col">
-        <img src="../assets/resume.png" alt="resume">
+        <img src="../assets/resumee.png" alt="resume">
       </div>
     </div>
     </mq-layout>
