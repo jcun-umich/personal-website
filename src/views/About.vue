@@ -24,7 +24,7 @@
       <ul class="content">
         <li class="left-side">
           <ul class="links">
-            <li><p class="results">About 100,000,000 results (0.23 seconds)</p></li>
+            <li><p class="results">About 4 results (0.23 seconds)</p></li>
             <li class="link">
               <p class="url">joshipedia.org > About</p>
              <a href="/wiki" style="text-decoration: none; color: inherit"><h3 class="web-title">About</h3></a>
@@ -48,13 +48,13 @@
               </thead>
               <tbody>
               <tr>
-              <td>Why should I hire Josh Cunningham?<span class="answer1" style="color: gray">Read his <a href="/resume">resume</a> to find out.</span></td></tr>
+              <td><p>Why should I hire Josh Cunningham?<br><span class="answer1" style="color: gray">Read his <a href="/resume">resume</a> to find out.</span></p></td></tr>
               <tr>
-              <td>Is Josh Cunningham a software developer?<span class="answer2" style="color: gray">Not officially, but he'd like to think so.</span></td></tr>
+              <td><p>Is Josh Cunningham a software developer?<br><span class="answer2" style="color: gray">Not officially, but he'd like to think so.</span></p></td></tr>
               <tr>
-              <td>When is Josh Cunningham graduating?<span class="answer3" style="color: gray">Ideally December 2022</span></td></tr>
+              <td><p>When is Josh Cunningham graduating?<br><span class="answer3" style="color: gray">Ideally December 2022</span></p></td></tr>
               <tr>
-              <td>Did Josh Cunningham make this website all by himself?<span class="answer" style="color: gray">Yes.</span></td></tr>
+              <td><p>Did Josh Cunningham make this website all by himself?<br><span class="answer" style="color: gray">Yes.</span></p></td></tr>
               </tbody>
               </table>
             </li>
@@ -63,7 +63,7 @@
         <li class="right-side">
           <div class="container">
             <carousel :loop = "true" :autoplay = "true" :perPage = "1" :paginationEnabled = "false" :easing = "linear" :autoplayHoverPause = "true" :autoplayTimeout = "8000" :centerMode = "false">
-            <slide><img width="100%" height="200px" src="../assets/redshirt2.png" alt="red shirt pic"></slide>
+            <slide><img width="100%" height="200px" src="../assets/bluetie1_2.png" alt="red shirt pic"></slide>
             </carousel>
           </div>
           <ul>
@@ -82,17 +82,21 @@
             <transition name="slide" appear>
               <div class="modal" v-if="showModal">
             <carousel :loop = "true" :autoplay = "true" :navigationEnabled = "true" :perPage = "1" :paginationEnabled = "false" :easing = "linear" :autoplayHoverPause = "true" :autoplayTimeout = "8000" :centerMode = "false">
-            <slide><img width="80%" height="400px" src="../assets/redshirt.png" alt="red shirt pic"></slide>
-            <slide><img width="80%" height="400px" src="../assets/redshirt2.png" alt="red shirt pic"></slide>
-            <slide><img width="40%" height="400px" src="../assets/whiteshirt.png" alt="red shirt pic"></slide>
-            <slide><img width="50%" height="400px" src="../assets/blueshirt.png" alt="red shirt pic"></slide>
+            <slide><img width="325px" height="400px" src="../assets/bluetie2.png" alt="red shirt pic"></slide>
+            <slide><img width="400px" height="250px" style="padding: 75px 0" src="../assets/redshirt.png" alt="red shirt pic"></slide>
+            <slide><img width="275px" height="400px" src="../assets/redtie1.png" alt="red shirt pic"></slide>
+            <slide><img width="400px" height="250px" style="padding: 75px 0" src="../assets/redshirt2.png" alt="red shirt pic"></slide>
+            <slide><img width="325px" height="400px" src="../assets/bluetie1.png" alt="red shirt pic"></slide>
+            <slide><img width="300px" height="400px" src="../assets/whiteshirt.png" alt="red shirt pic"></slide>
+            <slide><img width="275px" height="400px" src="../assets/redtie2.png" alt="red shirt pic"></slide>
+            <slide><img width="375px" height="400px" src="../assets/blueshirt.png" alt="red shirt pic"></slide>
             </carousel>
               </div>
             </transition></li>
           </ul>
           <div class="info-card">
             <p class="title">A Future Engineer who can’t decide what type of developement he loves more. He is currently looking for an internship for the summer of 2021.</p>
-            <p><span>Born:</span> February 23, 2001 (age: 19 yrs)</p>
+            <p><span>Born:</span> February 23</p>
             <p><span>Education:</span> University of Michigan, Ann Arbor, Michigan</p>
             <p><span>Interests:</span> Computer Science, Data Science, Programming, Artifical Intelligence, Machine Learning, Web Design, Software Engineering</p>
           </div>
@@ -110,8 +114,9 @@
     <div class="header-small">
       <div class="top-row-small">
         <a href="/home">
-        <video disableRemotePlayback width="30%" autoplay muted loop id="myVideo-small">
+        <video disableRemotePlayback width="30%" preload="auto" poster="../assets/logo.png" autoplay muted loop id="myVideo-small">
         <source src="../assets/logo.mp4" type="video/mp4">
+        <img src="../assets/logo.png" alt="logo">
         </video>
         </a>
       </div>
@@ -126,7 +131,7 @@
       <ul class="content-small">
         <li class="left-side">
           <ul class="links">
-            <li><p class="results">About 100,000,000 results (0.23 seconds)</p></li>
+            <li><p class="results">About 4 results (0.23 seconds)</p></li>
             <li class="link">
               <p class="url">joshipedia.org > About</p>
              <a href="/wiki" style="text-decoration: none; color: inherit"><h3 class="web-title">About</h3></a>
@@ -142,21 +147,21 @@
              <a href="/portfolio" style="text-decoration: none; color: inherit"><h3 class="web-title">Portfolio</h3></a>
               <p class="info">Coding projects made for school and personal practice in a variety of programming languages...</p>
             </li>
-              <li class="people-also-ask"><table class="people-also-ask">
+              <li class="people-also-ask"><table class="people-also-ask" style="width: 110%">
               <thead>
               <tr>
               <th>People also ask</th>
               </tr>
               </thead>
-              <tbody>
+              <tbody >
               <tr style="width: 5vw">
-              <td style="font-size: 3.5vw">Why should I hire Josh Cunningham?<span class="answer1" style="color: gray">Read his <a href="/resume">resume</a> to find out.</span></td></tr>
+              <td style="font-size: 3.5vw"><p>Why should I hire Josh Cunningham?<br><span class="answer1" style="color: gray">Read his <a href="/resume">resume</a> to find out.</span></p></td></tr>
               <tr style="width: 5vw">
-              <td style="font-size: 3.5vw">Is Josh Cunningham a software developer?<span class="answer2" style="color: gray">Not officially, but he'd like to think so.</span></td></tr>
+              <td style="font-size: 3.5vw"><p>Is Josh Cunningham a software developer?<br><span class="answer2" style="color: gray">Not officially, but he'd like to think so.</span></p></td></tr>
               <tr style="width: 5vw">
-              <td style="font-size: 3.5vw">When is Josh Cunningham graduating?<span class="answer3" style="color: gray">Ideally December 2022</span></td></tr>
+              <td style="font-size: 3.5vw"><p>When is Josh Cunningham graduating?<br><span class="answer3" style="color: gray">Ideally December 2022</span></p></td></tr>
               <tr style="width: 5vw">
-              <td style="font-size: 3.5vw">Did Josh Cunningham make this website himself?<span class="answer" style="color: gray">Yes.</span></td></tr>
+              <td style="font-size: 3.5vw"><p>Did Josh Cunningham make this website himself?<br><span class="answer" style="color: gray">Yes.</span></p></td></tr>
               </tbody>
               </table>
             </li>
@@ -165,7 +170,7 @@
         <li class="right-side">
           <div class="container">
             <carousel :loop = "true" :autoplay = "true" :perPage = "1" :paginationEnabled = "false" :easing = "linear" :autoplayHoverPause = "true" :autoplayTimeout = "8000" :centerMode = "false">
-            <slide><img width="100%" height="240px" src="../assets/redshirt2.png" alt="red shirt pic"></slide>
+            <slide><img width="100%" height="200px" src="../assets/bluetie1_2.png" alt="red shirt pic"></slide>
             </carousel>
           </div>
           <ul>
@@ -184,9 +189,13 @@
             <transition name="slide" appear>
               <div class="modal" v-if="showModal">
             <carousel :loop = "true" :autoplay = "true" :navigationEnabled = "true" :perPage = "1" :paginationEnabled = "false" :easing = "linear" :autoplayHoverPause = "true" :autoplayTimeout = "8000" :centerMode = "false">
+            <slide><img width="80%" height="400px" src="../assets/bluetie2.png" alt="red shirt pic"></slide>
             <slide><img width="90%" height="250px" style="padding: 75px 0" src="../assets/redshirt.png" alt="red shirt pic"></slide>
+            <slide><img width="80%" height="400px" src="../assets/redtie1.png" alt="red shirt pic"></slide>
             <slide><img width="90%" height="250px" style="padding: 75px 0" src="../assets/redshirt2.png" alt="red shirt pic"></slide>
+            <slide><img width="80%" height="400px" src="../assets/bluetie1.png" alt="red shirt pic"></slide>
             <slide><img width="80%" height="400px" src="../assets/whiteshirt.png" alt="red shirt pic"></slide>
+            <slide><img width="80%" height="400px" src="../assets/redtie2.png" alt="red shirt pic"></slide>
             <slide><img width="90%" height="400px" src="../assets/blueshirt.png" alt="red shirt pic"></slide>
             </carousel>
               </div>
@@ -194,7 +203,7 @@
           </ul>
           <div class="info-card">
             <p class="title">A Future Engineer who can’t decide what type of developement he loves more. He is currently looking for an internship for the summer of 2021.</p>
-            <p><span>Born:</span> February 23, 2001 (age: 19 yrs)</p>
+            <p><span>Born:</span> February 23</p>
             <p><span>Education:</span> University of Michigan, Ann Arbor, Michigan</p>
             <p><span>Interests:</span> Computer Science, Data Science, Programming, Artifical Intelligence, Machine Learning, Web Design, Software Engineering</p>
           </div>
@@ -236,56 +245,53 @@ export default {
   table
     margin-top: 5vw
     position: relative
-    left: -6%
-    overflow: hidden
-    fixed-width: 8vw
+    fixed-width: 10vw
     tr
-      fixed-width: 8vw
+      fixed-width: 10vw
     td
       height: .5vw
       transition: 1s
       cursor: pointer
-      font-size: 1.5vw
+      font-size: 1vw
+      p
+        font-size: 3vw
       .answer
         position: relative
         top: 0px
-        opacity: 0
         transition: 1s linear
-        left: -62%
       .answer1
         position: relative
         top: 0px
-        opacity: 0
+        font-size: 0
         transition: 1s linear
-        left: -46%
       .answer2
         position: relative
         top: 0px
-        opacity: 0
+        font-size: 0
         transition: 1s linear
-        left: -54%
       .answer3
         position: relative
         top: 0px
-        opacity: 0
+        font-size: 0
         transition: 1s linear
-        left: -48.5%
     td:hover
-      height: 12vw
+      height: 10vw
       position: relative
-      transform: translateY(-15%)
+      p
+        margin-top: -5px
+        margin-bottom: 15px
       .answer
-        opacity: 100%
-        top: 25px
+        font-size: 3vw
+        top: 20px
       .answer1
-        opacity: 100%
-        top: 25px
+        font-size: 3vw
+        top: 20px
       .answer2
-        opacity: 100%
-        top: 25px
+        font-size: 3vw
+        top: 20px
       .answer3
-        opacity: 100%
-        top: 25px
+        font-size: 3vw
+        top: 20px
   tr
     height: 2vw
   td
@@ -319,8 +325,8 @@ export default {
           .info
             font-family: Arial
             color: black
-            font-size: 4vw
-            width: 65%
+            font-size: 15px
+            max-width: 110%
         .results
           font-size: 4vw
         .people-also-ask
@@ -488,49 +494,53 @@ header
 body
   table
     td
-      height: .5vw
       transition: 2s
       cursor: pointer
+      position: relative
+      p
+        line-height: 0
+        font-size: .9vw
+        padding: 0
+        position: relative
       .answer
         position: relative
         top: 0px
-        opacity: 0
+        font-size: 0
         transition: 1s linear
-        left: -67%
       .answer1
         position: relative
         top: 0px
-        opacity: 0
+        font-size: 0
         transition: 1s linear
-        left: -45%
       .answer2
         position: relative
         top: 0px
-        opacity: 0
+        font-size: 0
         transition: 1s linear
-        left: -52.5%
       .answer3
         position: relative
         top: 0px
-        opacity: 0
+        font-size: 0
         transition: 1s linear
-        left: -47.5%
     td:hover
       height: 3vw
       position: relative
-      transform: translateY(-15%)
+      p
+        margin-top: -5px
+        margin-bottom: 20px
       .answer
-        opacity: 100%
+        font-size: .9vw
         top: 25px
       .answer1
-        opacity: 100%
+        font-size: .9vw
         top: 25px
       .answer2
-        opacity: 100%
+        font-size: .9vw
         top: 25px
       .answer3
-        opacity: 100%
+        font-size: .9vw
         top: 25px
+
   .results
     color: gray
     font-family: Arial
@@ -683,13 +693,13 @@ body
   max-width: 700px
   height: 400px
   background-color: white
-  border-radius: 16px
+  border-radius: 5px
   padding: 20px
   font-family: Arial
   text-align: center
   -webkit-box-shadow: 0px 15px 60px 40px rgba(0,0,0,0.86)
   -moz-box-shadow: 0px 15px 60px 40px rgba(0,0,0,0.86)
-  box-shadow: 0px 15px 60px 40px rgba(0,0,0,0.86)
+  box-shadow: 0px 10px 30px 10px rgba(0,0,0,0.86)
 
 .fade-enter-active, .fade-leave-active
   transition: opacity 0.5s
@@ -698,10 +708,10 @@ body
   opacity: 0
 
 .slide-enter-active, .slide-leave-active
-  transition: transform 1s
+  transition: opacity 0.5s
 
 .slide-enter, .slide-leave-to
-  transform: translateX(-50%) translateY(-300vw)
+  opacity: 0
 .header-small
   display: flex
   flex-direction: column
