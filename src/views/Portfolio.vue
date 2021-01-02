@@ -29,7 +29,17 @@
       <ul class="videos">
         <li class="video y">
           <div class="video-panel">
-            <iframe src="https://www.youtube.com/embed/dPWA0wNuuyo" autoplay="1" loop="1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/YXGytqP3W-M?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=dPWA0wNuuyo&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="info">
+            <h3>Piazza Post Classifier (C++)</h3>
+            <p>As school project, this algorithm uses supervised machine learning to classify the subject of a given forum post based on which class project it corresponds to.</p>
+            <div class="full"><a href="https://gitlab.eecs.umich.edu/jabapo/p5-ml/-/tree/master" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+          </div>
+        </li>
+        <li class="video y">
+          <div class="video-panel">
+            <iframe src="https://www.youtube.com/embed/dPWA0wNuuyo?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=dPWA0wNuuyo&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>PDB Translator (C++)</h3>
@@ -39,7 +49,37 @@
         </li>
         <li class="video r">
           <div class="video-panel">
-            <iframe src="https://www.youtube.com/embed/81gO89N2WvA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/tFsoAfxD8y8?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=81gO89N2WvA&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="info">
+            <h3>Connect-4 (Python / Pygame)</h3>
+            <p>You can choose to play with a friend or against the Computer, AI with four difficultues to choose from that uses a MiniMax algorithm to choose its moves. This was a fun python refresh for me and an introduction to AI in games.</p>
+            <div class="full"><a href="https://github.com/jcun-umich/portfolio/blob/master/connect_four.py"  style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+          </div>
+        </li>
+        <li class="video r">
+          <div class="video-panel">
+            <iframe src="https://www.youtube.com/embed/SfLQUvXRVO4?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=81gO89N2WvA&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="info">
+            <h3>Euchre (C++)</h3>
+            <p>Classic card game that can be played with other people or against AI that runs a simple strategy. This was a class project focuses on dyanmic memory, polymorphism, and OOP.</p>
+            <div class="full"><a href="https://gitlab.eecs.umich.edu/jabapo/p3-euchre"  style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+          </div>
+        </li>
+        <li class="video r">
+          <div class="video-panel">
+            <iframe src="https://www.youtube.com/embed/gC7SK-zzDC0?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=81gO89N2WvA&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="info">
+            <h3>Image Processing Tool (C++)</h3>
+            <p>Class project, uses a seam-carving algorithm based on RGB values to remove unimportant areas of images.</p>
+            <div class="full"><p style="font-size: 15px; color: white">Full Code</p></div>
+          </div>
+        </li>
+        <li class="video r">
+          <div class="video-panel">
+            <iframe src="https://www.youtube.com/embed/81gO89N2WvA?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=81gO89N2WvA&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>Hangman (C++)</h3>
@@ -49,27 +89,37 @@
         </li>
         <li class="video b">
           <div class="video-panel">
-            <iframe src="https://www.youtube.com/embed/rhS8gi09UvQ?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/rhS8gi09UvQ?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=rhS8gi09UvQ&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>This Website! (Vue.js)</h3>
             <p>The table found in the About page was initially part of the bootcamp for my Web Development internship. As you can see I took the assignment many steps further to create an over-the-top display of what I can do in my short time learning web developement. This website encapsulates only part of both who I am and what I can do.</p>
-            <div class="full"><a href="" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+            <div class="full"><a href="https://github.com/jcun-umich/personal-website" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
           </div>
         </li>
         <li class="video y">
           <div class="video-panel">
-            <iframe src="https://www.youtube.com/embed/tmBuWQ_Ec-8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/tVFAVjzuJE8?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=tmBuWQ_Ec-8&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
-            <h3>Black Jack (C++)</h3>
-            <p>Classic card game using random number generators and basic C++ to create a dealer. This was a fun, independent weekend project!</p>
-            <div class="full"><a href="https://github.com/jcun-umich/portfolio/blob/master/blackJack.cpp" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+            <h3>Black Jack (Python)</h3>
+            <p>Classic card game using random number generators and basic Python to create a dealer. This was a fun, independent weekend project!</p>
+            <div class="full"><a href="https://github.com/jcun-umich/portfolio/blob/master/blackjack.py" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+          </div>
+        </li>
+        <li class="video y">
+          <div class="video-panel">
+            <iframe src="https://www.youtube.com/embed/r7IL4vLYsRc?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=tmBuWQ_Ec-8&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="info">
+            <h3>Discord Bot (Python)</h3>
+            <p>This bot will attempt to match you will the college that best fits your preferences and academic qualifications by estimating the odds of acceptance for each school in your state and taking into account each school's ranking in your specified major.</p>
+            <div class="full"><a href="https://github.com/jcun-umich/College-Admissions-Bot" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
           </div>
         </li>
         <li class="video r">
           <div class="video-panel">
-            <iframe src="https://www.youtube.com/embed/yFHqy9TTFYw?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/yFHqy9TTFYw?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=yFHqy9TTFYw&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>Route Calculator (C++)</h3>
@@ -84,8 +134,9 @@
     <div class="header-small">
       <div class="top-row-small">
         <a href="/home">
-        <video disableRemotePlayback width="30%" autoplay muted loop id="myVideo-small">
+        <video disableRemotePlayback width="30%" preload="auto" poster="../assets/logo.png" autoplay muted loop id="myVideo-small">
         <source src="../assets/logo.mp4" type="video/mp4">
+        <img src="../assets/logo.png" alt="logo">
         </video>
         </a>
       </div>
@@ -98,14 +149,25 @@
     </div>
     <div class="body-small">
             <div class="banner">
-      <video disableRemotePlayback autoplay muted loop id="myVideo">
+      <video disableRemotePlayback autoplay muted preload="auto" poster="../assets/joshtube.png" loop id="myVideo">
         <source  src="../assets/joshtube.mp4" type="video/mp4">
+        <img src="../assets/joshtube.png" alt="logo">
       </video>
       </div>
-      <ul class="videos">
+            <ul class="videos">
         <li class="video y">
           <div class="video-panel">
-            <iframe src="https://www.youtube.com/embed/dPWA0wNuuyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/YXGytqP3W-M?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=dPWA0wNuuyo&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="info">
+            <h3>Piazza Post Classifier (C++)</h3>
+            <p>As school project, this algorithm uses supervised machine learning to classify the subject of a given forum post based on which class project it corresponds to.</p>
+            <div class="full"><a href="https://gitlab.eecs.umich.edu/jabapo/p5-ml/-/tree/master" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+          </div>
+        </li>
+        <li class="video y">
+          <div class="video-panel">
+            <iframe src="https://www.youtube.com/embed/dPWA0wNuuyo?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=dPWA0wNuuyo&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>PDB Translator (C++)</h3>
@@ -115,7 +177,37 @@
         </li>
         <li class="video r">
           <div class="video-panel">
-            <iframe src="https://www.youtube.com/embed/81gO89N2WvA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/tFsoAfxD8y8?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=81gO89N2WvA&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="info">
+            <h3>Connect-4 (Python / Pygame)</h3>
+            <p>You can choose to play with a friend or against the Computer, AI with four difficultues to choose from that uses a MiniMax algorithm to choose its moves. This was a fun python refresh for me and an introduction to AI in games.</p>
+            <div class="full"><a href="https://github.com/jcun-umich/portfolio/blob/master/connect_four.py"  style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+          </div>
+        </li>
+        <li class="video r">
+          <div class="video-panel">
+            <iframe src="https://www.youtube.com/embed/SfLQUvXRVO4?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=81gO89N2WvA&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="info">
+            <h3>Euchre (C++)</h3>
+            <p>Classic card game that can be played with other people or against AI that runs a simple strategy. This was a class project focuses on dyanmic memory, polymorphism, and OOP.</p>
+            <div class="full"><a href="https://gitlab.eecs.umich.edu/jabapo/p3-euchre"  style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+          </div>
+        </li>
+        <li class="video r">
+          <div class="video-panel">
+            <iframe src="https://www.youtube.com/embed/gC7SK-zzDC0?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=81gO89N2WvA&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="info">
+            <h3>Image Processing Tool (C++)</h3>
+            <p>Class project, uses a seam-carving algorithm based on RGB values to remove unimportant areas of images.</p>
+            <div class="full"><p style="font-size: 15px; color: white">Full Code</p></div>
+          </div>
+        </li>
+        <li class="video r">
+          <div class="video-panel">
+            <iframe src="https://www.youtube.com/embed/81gO89N2WvA?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=81gO89N2WvA&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>Hangman (C++)</h3>
@@ -125,27 +217,37 @@
         </li>
         <li class="video b">
           <div class="video-panel">
-            <iframe src="https://www.youtube.com/embed/rhS8gi09UvQ?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/rhS8gi09UvQ?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=rhS8gi09UvQ&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>This Website! (Vue.js)</h3>
             <p>The table found in the About page was initially part of the bootcamp for my Web Development internship. As you can see I took the assignment many steps further to create an over-the-top display of what I can do in my short time learning web developement. This website encapsulates only part of both who I am and what I can do.</p>
-            <div class="full"><a href="" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+            <div class="full"><a href="https://github.com/jcun-umich/personal-website" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
           </div>
         </li>
         <li class="video y">
           <div class="video-panel">
-            <iframe src="https://www.youtube.com/embed/tmBuWQ_Ec-8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/tVFAVjzuJE8?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=tmBuWQ_Ec-8&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
-            <h3>Black Jack (C++)</h3>
-            <p>Classic card game using random number generators and basic C++ to create a dealer. This was a fun, independent weekend project!</p>
-            <div class="full"><a href="https://github.com/jcun-umich/portfolio/blob/master/blackJack.cpp" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+            <h3>Black Jack (Python)</h3>
+            <p>Classic card game using random number generators and basic Python to create a dealer. This was a fun, independent weekend project!</p>
+            <div class="full"><a href="https://github.com/jcun-umich/portfolio/blob/master/blackjack.py" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
+          </div>
+        </li>
+        <li class="video y">
+          <div class="video-panel">
+            <iframe src="https://www.youtube.com/embed/r7IL4vLYsRc?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=tmBuWQ_Ec-8&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="info">
+            <h3>Discord Bot (Python)</h3>
+            <p>This bot will attempt to match you will the college that best fits your preferences and academic qualifications by estimating the odds of acceptance for each school in your state and taking into account each school's ranking in your specified major.</p>
+            <div class="full"><a href="https://github.com/jcun-umich/College-Admissions-Bot" style="text-decoration: none; color: white" target="_blank"><p style="font-size: 15px">Full Code</p></a></div>
           </div>
         </li>
         <li class="video r">
           <div class="video-panel">
-            <iframe src="https://www.youtube.com/embed/yFHqy9TTFYw?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/yFHqy9TTFYw?rel=0?version=3&autoplay=1&loop=1&controls=0&playlist=yFHqy9TTFYw&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="info">
             <h3>Route Calculator (C++)</h3>
